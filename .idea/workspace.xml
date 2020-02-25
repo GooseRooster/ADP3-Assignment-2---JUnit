@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6816487b-eef8-4c77-aa7f-d93ec73ae5fc" name="Default Changelist" comment="" />
+    <list default="true" id="6816487b-eef8-4c77-aa7f-d93ec73ae5fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YIlIgnKnDkFpiZmz8UesHPQMjr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager" selected="JUnit.AppTest.testTimeoutFail">
     <configuration name="AppTest.testObjectEqualitySuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -143,21 +151,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582641589771" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582646271971">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1582646917007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582646271971" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582646271971">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582646917007" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1582646917007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582646271971" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582646271971">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582646917007" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1582646917007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582646271971" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582646271971">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582646917007" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1582646917007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582646271971" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582646917007" />
   </component>
 </project>

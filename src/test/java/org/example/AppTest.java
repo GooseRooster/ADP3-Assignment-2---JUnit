@@ -18,8 +18,6 @@ public class AppTest
     Student r = new Student(13, "Brandon");
     Student x = new Student(15, "Molly");
     Student c = s;
-    App a = new App();
-    App b = a;
 
     @Test
     public void testObjectEqualityFail() {
