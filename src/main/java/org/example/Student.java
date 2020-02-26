@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.Objects;
+
 public class Student {
 
     private int age;
@@ -24,5 +26,19 @@ public class Student {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Student)) return false;
+        Student student = (Student) o;
+        return getAge() == student.getAge() &&
+                getName().equals(student.getName());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getAge(), getName());
     }
 }
