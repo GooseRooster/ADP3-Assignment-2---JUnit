@@ -21,23 +21,23 @@ public class AppTest
 
     @Test
     public void testObjectEqualityFail() {
-        Assert.assertTrue(s == x);
+        Assert.assertEquals(s, x);
     }
 
 
     @Test
     public void testObjectEqualitySuccess() {
-        Assert.assertTrue(s.equals(r));
+        Assert.assertEquals(s, r);
     }
 
     @Test
     public void testObjectIdentityFail() {
-        Assert.assertTrue(s.hashCode() == r.hashCode());
+        Assert.assertSame(s, r);
     }
 
     @Test
     public void testObjectIdentitySuccess() {
-        Assert.assertTrue(s.hashCode() == c.hashCode());
+        Assert.assertSame(s, c);
     }
 
     @Test
@@ -48,7 +48,7 @@ public class AppTest
 
     @Test (timeout = 1000)
     public void testTimeoutSuccess() {
-        Assert.assertTrue(s != x && s == c);
+        Assert.assertSame(s, c);
     }
 
     @Test (timeout = 1)
