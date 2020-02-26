@@ -27,7 +27,7 @@ public class AppTest
 
     @Test
     public void testObjectEqualitySuccess() {
-        Assert.assertTrue(s != x && s == c);
+        Assert.assertTrue(s.equals(r));
     }
 
     @Test
@@ -69,3 +69,4 @@ public class AppTest
         assertTrue( true );
     }
 }
+
